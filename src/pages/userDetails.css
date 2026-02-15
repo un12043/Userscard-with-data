@@ -1,0 +1,26 @@
+.user-details {
+  padding: 40px;
+  max-width: 700px;
+  margin: auto;
+}
+
+.user-details__card {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+}
+
+.user-details__back {
+  text-decoration: none;
+  color: #4f46e5;
+}
+
+.user-details__back:hover {
+  text-decoration: underline;
+}
+
+.user-details__loading {
+  text-align: center;
+  margin-top: 50px;
+}

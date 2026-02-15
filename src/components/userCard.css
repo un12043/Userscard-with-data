@@ -1,0 +1,25 @@
+.card {
+  border: 1px solid gray;
+  padding: 15px;
+  border-radius: 10px;
+  background: white;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.03);
+}
+
+.card__btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 5px 10px;
+  background: rgb(186, 121, 232);
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.card__btn:hover {
+  background: #e16be7;
+}
